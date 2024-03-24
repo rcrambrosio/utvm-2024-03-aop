@@ -59,7 +59,7 @@ public class MonitoringAspect {
 		// datos, etc.
 		// Devuelve true si la aplicación está saludable, de lo contrario, devuelve
 		// false
-		return true;
+		return false;
 	}
 
 }
